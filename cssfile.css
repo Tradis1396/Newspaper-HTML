@@ -1,0 +1,53 @@
+body{
+margin: 5%;
+}
+
+.topleft{
+float: left;
+width: 50%;
+}
+
+.topright{
+float:right;
+}
+
+.withinhr{
+width: 100%;
+font-size:2vw;
+margin:10px;
+padding:5px;
+}
+.heading{
+font-size:60px;
+margin:10px;
+}
+.heading1{
+font-size:1.5vw;
+height:40%;
+width:40%;
+float:left;
+}
+
+.citea{
+float:left;
+width:40%;
+}
+.fig1{
+float:right;
+background:grey;
+width:50%;
+hieght:50%;
+margin-left:50px;
+}
+
+.fig2{
+float:left;
+background:grey;
+margin-top:25px;
+margin-bottom: 25px;
+margin-left:0px;
+height:30%;
+width:25%;
+}
+
+
